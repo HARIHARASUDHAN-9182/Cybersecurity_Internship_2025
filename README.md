@@ -3,7 +3,7 @@
 This repository contains my learning notes and practical understanding gained during my 15 days cybersecurity internship.
 ## INTERNSHIP OVERVIEW
 Internship Organization: BCBUZZ Technologies Private Limited
-Domain: Cybersecurity
+Domain: Cybersecurity 
 Mode: Hybrid
 Duration: 2 Weeks
 ## TOPICS COVERED
